@@ -1,0 +1,11 @@
+
+درس 14
+درس 16
+درس 19 : تفاوت send و invoke
+درس 20: sinalR httpTrnsport Type:Wegsucet, longpoll, event
+درس 21:
+درس 22
+درس 24
+درس 25
+درس 27
+
